@@ -29,7 +29,9 @@ From online: "NumPy is a library for the Python programming language, adding sup
 
 Source(s): https://www.youtube.com/watch?v=GB9ByFAIAH4 (Keith Galli) 
 
-The code and data that I put into the 'Numpylearn' folder is taken from and in order of this video's contents.
+The code and dataset that I put into the 'Numpylearn' folder is taken from and in order of this video's contents.
+
+Dataset analysed [here](https://github.com/WindJammer6/NumPy-Pandas-Matplotlib-Learning-and-Practice-Python/blob/main/NumPylearn/data.txt) (an array of integers/floats)
 
 <br>
 
@@ -45,7 +47,9 @@ From online: "Pandas is an open-source library built on top of NumPy providing h
 
 Source(s): https://www.youtube.com/watch?v=vmEHCJofslg (Keith Galli)
 
-The code and data that I put into the 'Pandaslearn' folder is taken from and in order of this video's contents.
+The code and dataset that I put into the 'Pandaslearn' folder is taken from and in order of this video's contents.
+
+Dataset analysed [here](https://github.com/WindJammer6/NumPy-Pandas-Matplotlib-Learning-and-Practice-Python/blob/main/Pandaslearn/pokemon_data.csv) (Pokemon data)
 
 <br>
 
@@ -53,7 +57,9 @@ The code and data that I put into the 'Pandaslearn' folder is taken from and in 
 
 Source(s): https://pynative.com/python-pandas-exercise/ (PyNative)
 
-The coding excercises and data I put into 'Pandaspractice' folder is taken from and in order of this website's contents.
+The coding excercises and dataset I put into 'Pandaspractice' folder is taken from and in order of this website's contents.
+
+Dataset analysed [here](https://github.com/WindJammer6/NumPy-Pandas-Matplotlib-Learning-and-Practice-Python/blob/main/Pandaspractice/Automobile_data.csv) (Automobile data)
 
 Practices done by myself. Solutions that look quite different from my answers(or if my answers are wrong) I have attached the solutions in the folder as well.
 
