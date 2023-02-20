@@ -1,0 +1,20 @@
+import numpy as np
+
+#Making a 3D array, 2 by 2 by 2 array
+a = np.array([[[1,2], [3,4]], [[5,6], [7,8]]])
+print(a)
+
+#Get a specific element in the 3D array 
+#(work outside in, from [index_list_outside:index_list_inside:index_list_inside_of_list_inside])
+print(a[0:1:1])   #to get number 4
+
+#You can kinda play around to see what numbers from which dimensions will pop up
+print(a[:, 0, :])
+print(a[:, 1, :])
+print(a[:, 0, 0])
+
+
+#Changing data for 3D arrays
+print(a[:, 1, :])
+a[:, 1, :] = [[8,8], [9,9]]
+print(a)
