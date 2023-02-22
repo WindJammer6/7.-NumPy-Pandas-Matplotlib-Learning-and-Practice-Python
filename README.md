@@ -37,6 +37,12 @@ Dataset analysed [here](https://github.com/WindJammer6/NumPy-Pandas-Matplotlib-L
 
 **2. NumPy Practices**
 
+Source(s): https://www.machinelearningplus.com/python/101-numpy-exercises-python/ (Machine Learning +)
+
+The coding excercises and dataset I put into 'Numpypractice' folder is taken from (but not in order) of this website's contents.
+
+Practices done by myself. Solutions that look quite different from my answers (or if my answers are wrong) I have attached the solutions in the folder as well.
+
 <br>
 
 **3. Pandas Learning**
@@ -61,7 +67,7 @@ The coding excercises and dataset I put into 'Pandaspractice' folder is taken fr
 
 Dataset analysed [here](https://github.com/WindJammer6/NumPy-Pandas-Matplotlib-Learning-and-Practice-Python/blob/main/Pandaspractice/Automobile_data.csv) (Automobile data)
 
-Practices done by myself. Solutions that look quite different from my answers(or if my answers are wrong) I have attached the solutions in the folder as well.
+Practices done by myself. Solutions that look quite different from my answers (or if my answers are wrong) I have attached the solutions in the folder as well.
 
 <br>
 
