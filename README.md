@@ -43,6 +43,8 @@ The coding excercises and dataset I put into 'Numpypractice' folder is taken fro
 
 Practices done by myself. Solutions that look quite different from my answers (or if my answers are wrong) I have attached the solutions in the folder as well.
 
+(Did 15/70+ of the qns so far, skipped some like Q2 and Q5 since they are build up questions to the next question and I was able to do those already. Will be uploading more excercises as I do them...)
+
 <br>
 
 **3. Pandas Learning**
@@ -72,6 +74,14 @@ Practices done by myself. Solutions that look quite different from my answers (o
 <br>
 
 **5. Matplotlib Learning**
+
+What is Matplotlib?
+
+From online: "Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy."
+
+Source(s): https://www.youtube.com/watch?v=DAQNHzOcO5A (Keith Galli) 
+
+The code and dataset that I put into the 'Matplotliblearn' folder is taken from and in order of this video's contents.
 
 <br>
 
