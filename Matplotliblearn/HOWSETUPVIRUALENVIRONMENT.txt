@@ -1,0 +1,7 @@
+In order for matplotlib to draw graphs in VS Code, windows, you need to set up a virtual environment in
+your directory.
+
+Run these 2 commands in your terminal to set up the virtual environment:
+1. python -m venv studysession 
+
+2. studysession/Scripts/activate   (to activate the virtual environment)
