@@ -1,0 +1,38 @@
+What is numPy?
+It is a multidimensional array library. You can use numPy (as it is a multidimensional array)
+to store data in:
+1D (like lists, with axis=0, shape:(4,))
+2D (like table, with axis=0 and axis=1, shape:(4. 3) 
+3D (with axis=0, axis=1, axis=2, shape:(4, 3, 2)
+4D, etc.
+
+
+Normal lists (1D arrays) in Python VS Numpy (array)
+1. Numpy processes faster than normal lists.
+
+- This is because numpy has fixed types. 
+Normal lists can vary in size and store different data type, which it needs to keep checking while numpy dosent
+hence it contains less bytes of memory than normal lists and will process faster. (list elements may store up to
+110 bits by default, while numpy array elements store only up to 32 bits, and may be programmed to hold smaller
+number of bits up to only 8)
+
+- Also because numpy has contiguous memory.
+Basically in normal lists the data is scattered everywhere in memory with the pointers pointing everywhere while
+data from numpy is stored continuously next to each other. There more going on... but just know since the data 
+for numpy are continuous and next to another they are more easily accessible compared to normal lists where 
+data is scattered.
+
+2. Numpy can do what lists can (insertion, deletion, appending, concatation, etc), but lots more which
+what we will be learning now.
+- One example is:
+List               Numpy
+a = [1,3,5]     a = [1,3,5]
+b = [1,2,3]     b = [1,2,3]
+a*b = ERROR     a*b = [1,6,15]
+
+
+Applications of Numpy:
+-Mathematics
+-Plotting (with Matplotlib)
+-Backend (Pandas, Connect 4, Digital Photography)
+-Machine Learning
