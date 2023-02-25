@@ -95,7 +95,7 @@ What is Matplotlib?
 
 From online: "Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy."
 
-Matplotlib Documentation: https://matplotlib.org/stable/index.html (Main documentation), https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html (line graph), https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html (bar graph), https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.pie.html (pie chart), https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html (histogram), https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.boxplot.html (box and whiskers plot)
+Matplotlib Documentation: https://matplotlib.org/stable/index.html (Main documentation), https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html (line graph), https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html (bar graph), https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.pie.html (pie chart), https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html (histogram), https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.boxplot.html (box and whiskers plot), https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html (scatter plot), https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplot.html(subplot graphs), https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.stackplot.html (stackplot graphs)
 
 Source(s): https://www.youtube.com/watch?v=DAQNHzOcO5A (Keith Galli) 
 
@@ -106,6 +106,14 @@ The code, dataset and graphs that I put into the 'Matplotliblearn' folder is tak
 <br>
 
 **6. Matplotlib Practices**
+
+Source(s): https://pynative.com/python-matplotlib-exercise/ (PyNative)
+
+The coding excercises, dataset and graphs I put into 'Matplotlibpractice' folder is taken from and in order of this website's contents.
+
+Dataset analysed [here](https://github.com/WindJammer6/7.-NumPy-Pandas-Matplotlib-Learning-and-Practice-Python/blob/main/Matplotlibpractice/company_sales_data.csv) (Company Product Sales data)
+
+Practices done by myself. Solutions that look quite different from my answers (or if my answers are wrong) I have attached the solutions in the folder as well.
 
 <br>
 
@@ -125,11 +133,18 @@ Datasets analysed [here](https://github.com/WindJammer6/NumPy-Pandas-Matplotlib-
 
 <br>
 
-## Thoughts after the project
+## Thoughts after the learning journey
+Learnt some stuff surrounding the context behind these 3 libraries. Numpy serves as the base that Pandas and Matplotlib are built on. 
+
+An important thing I learnt through learning these Python Libraries is that as a programmer you are not expected to remember every single command and the context in a library since it is quite impossible, even for veteran coders. But I feel what makes them a veteran is that while coding they have this instinct that tells them that there is various possible ways/solutions to do the code/bug. Even if they can't remember the precise way to do it they can always google it up and find what they want. Beginners might not even know what they don't know, and I feel this is what seperates veteran from new programmers.
+
+A handy way to search for a command/codes in a documentation you are looking for is through using the web's 'Word Search'. Example: You want to figure out how to label pie chart in Matplotlib, but don't know the command. You can simply word search label, and see if any 'Label' words pops up in the website either in the description of a code or if you're lucky, the command for label might just be 'Label'.
 
 <br>
 
 To be improved:
+* More learning and practices can always be done to further your understanding of the commands and the library itself.
+* Can do some practices regarding the mathematical aspects of NumPy.
 
 <br>
 
