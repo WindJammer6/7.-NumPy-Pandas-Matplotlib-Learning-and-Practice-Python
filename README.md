@@ -136,7 +136,7 @@ Datasets analysed [here](https://github.com/WindJammer6/NumPy-Pandas-Matplotlib-
 ## Thoughts after the learning journey
 Learnt some stuff surrounding the context behind these 3 libraries. Numpy serves as the base that Pandas and Matplotlib are built on. 
 
-An important thing I learnt through learning these Python Libraries is that as a programmer you are not expected to remember every single command and the context in a library since it is quite impossible, even for veteran coders. But I feel what makes them a veteran is that while coding they have this instinct that tells them that there is various possible ways/solutions to do the code/bug. Even if they can't remember the precise way to do it they can always google it up and find what they want. Beginners might not even know what they don't know, and I feel this is what seperates veteran from new programmers.
+An important thing I learnt through learning these Python Libraries is that as a programmer you are not expected to remember every single command and the context in a library since it is quite impossible, even for veteran coders. But I feel what makes them a veteran is that while coding they have this instinct that tells them that there is various possible ways/solutions to do the code/bug. Even if they can't remember the precise way to do it they can always google it up and find what they want. Beginners might not even know what they don't know, and I feel this is what seperates veteran from new programmers. So keep coding, in order to get this 'instinct' to improve your coding skills!
 
 A handy way to search for a command/codes in a documentation you are looking for is through using the web's 'Word Search'. Example: You want to figure out how to label pie chart in Matplotlib, but don't know the command. You can simply word search label, and see if any 'Label' words pops up in the website either in the description of a code or if you're lucky, the command for label might just be 'Label'.
 
@@ -144,7 +144,7 @@ A handy way to search for a command/codes in a documentation you are looking for
 
 To be improved:
 * More learning and practices can always be done to further your understanding of the commands and the library itself.
-* Can do some practices regarding the mathematical aspects of NumPy.
+* Can do some practices regarding the mathematical aspects of the NumPy library.
 
 <br>
 
