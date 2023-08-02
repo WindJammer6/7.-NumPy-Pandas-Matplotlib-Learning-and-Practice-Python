@@ -2,9 +2,6 @@
 My learning journey of Python's Libraries NumPy, Pandas and Matplotlib.
 
 ## Thoughts on starting this learning journey
-
-![Semantic description of image](https://intao.io/wp-content/uploads/2019/12/intao-learning-is-a-journey.jpg)
-
 Back in my fifth project on Alarm Clock (no GUI) I mentioned that I discovered a new way to learn programming languages: Through the learning of libraries.
 
 Through applying for IT internships and some readups online I also realised some popular libraries that are a must-know as professional skills in Python in the working world. Said libraries include NumPy, Pandas and Matplotlib so here they are.
